@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="ogpTitle ogpDesc">
+  <title id="ogpTitle">フェイズ四日市店 OGP画像</title>
+  <desc id="ogpDesc">フェイズロゴ、宇宙感のあるカードパネル、四日市にカードゲームの新しいフェイズをというコピーを組み合わせたOGP画像</desc>
+  <defs>
+    <linearGradient id="ogpBg" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#ffffff"/>
+      <stop offset=".56" stop-color="#eef5ff"/>
+      <stop offset=".72" stop-color="#0a3279"/>
+      <stop offset="1" stop-color="#01091f"/>
+    </linearGradient>
+    <linearGradient id="brush" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#ffe14a"/>
+      <stop offset=".48" stop-color="#ffbc1a"/>
+      <stop offset="1" stop-color="#ff6f1a"/>
+    </linearGradient>
+    <filter id="lift" x="-14%" y="-20%" width="128%" height="140%">
+      <feDropShadow dx="0" dy="14" stdDeviation="16" flood-color="#01091f" flood-opacity=".24"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="630" fill="url(#ogpBg)"/>
+  <path d="M0 0h1200v116L0 330z" fill="#fff" opacity=".86"/>
+  <g opacity=".6">
+    <circle cx="862" cy="72" r="1.4" fill="#fff"/>
+    <circle cx="1050" cy="118" r="1.6" fill="#fff"/>
+    <circle cx="1114" cy="268" r="1.2" fill="#33cfff"/>
+    <circle cx="926" cy="420" r="1.5" fill="#fff"/>
+    <circle cx="1152" cy="492" r="1" fill="#ffd22e"/>
+  </g>
+  <path d="M614 84C760 28 1008 44 1180 158" fill="none" stroke="#33cfff" stroke-width="3" opacity=".36"/>
+  <path d="M636 492C818 384 1016 360 1200 420" fill="none" stroke="#ffd22e" stroke-width="5" opacity=".32"/>
+  <path d="M790 104h330l-34 54H756z" fill="#ffd22e"/>
+  <path d="M942 222h258v30H922z" fill="#f13a4e" opacity=".86"/>
+  <g filter="url(#lift)">
+    <path d="M744 204h316l48 210H792z" fill="#ffffff" opacity=".96"/>
+    <path d="M790 242h230l20 104H810z" fill="#01091f"/>
+    <path d="M812 264h188l8 34H820z" fill="#33cfff" opacity=".34"/>
+    <path d="M820 372h242l8 24H828z" fill="#006dff"/>
+    <path d="M948 372h96l-12 24h-96z" fill="#ffd22e"/>
+  </g>
+  <g filter="url(#lift)">
+    <text x="70" y="196" fill="url(#brush)" stroke="#7b1d00" stroke-width="8" paint-order="stroke fill" font-family="'Yu Mincho','Hiragino Mincho ProN','BIZ UDPMincho',serif" font-size="116" font-weight="900">フェイズ</text>
+    <text x="86" y="258" fill="#01091f" font-family="Arial Black, Impact, sans-serif" font-size="66" font-weight="900">PHASE</text>
+    <path d="M350 218h294l-22 48H328z" fill="#01091f"/>
+    <text x="376" y="251" fill="#ffffff" font-family="Arial, sans-serif" font-size="32" font-weight="900">TCG SHOP</text>
+  </g>
+  <text x="74" y="392" fill="#01091f" font-family="'BIZ UDPGothic','Noto Sans JP',Arial,sans-serif" font-size="48" font-weight="900">四日市に、カードゲームの新しいフェイズを。</text>
+  <text x="78" y="468" fill="#34435f" font-family="'BIZ UDPGothic','Noto Sans JP',Arial,sans-serif" font-size="28" font-weight="800">販売・買取・大会開催・32席のデュエルスペース完備</text>
+  <path d="M78 522h286l-18 42H60z" fill="#ffd22e"/>
+  <path d="M392 522h214l-18 42H374z" fill="#006dff"/>
+  <text x="92" y="552" fill="#01091f" font-family="Arial Black, Arial, sans-serif" font-size="22" font-weight="900">MIE YOKKAICHI</text>
+</svg>

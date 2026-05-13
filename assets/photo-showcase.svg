@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="420" viewBox="0 0 580 420" role="img" aria-labelledby="showcaseTitle showcaseDesc">
+  <title id="showcaseTitle">ショーケース写真差し替え枠</title>
+  <desc id="showcaseDesc">カードショーケースをイメージしたプレースホルダー画像</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#f9fbff"/>
+      <stop offset="1" stop-color="#dbe8ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="580" height="420" fill="url(#bg)"/>
+  <path d="M0 0h580v94L0 210z" fill="#ffffff"/>
+  <path d="M50 112h480l-36 234H86z" fill="#071b43"/>
+  <path d="M78 142h420l-19 158H101z" fill="#ffffff" opacity=".16"/>
+  <g fill="#ffffff">
+    <rect x="116" y="168" width="62" height="88" rx="6"/>
+    <rect x="198" y="168" width="62" height="88" rx="6"/>
+    <rect x="280" y="168" width="62" height="88" rx="6"/>
+    <rect x="362" y="168" width="62" height="88" rx="6"/>
+  </g>
+  <g fill="#ffbc1a">
+    <rect x="126" y="180" width="42" height="30" rx="4"/>
+    <rect x="208" y="180" width="42" height="30" rx="4"/>
+    <rect x="290" y="180" width="42" height="30" rx="4"/>
+    <rect x="372" y="180" width="42" height="30" rx="4"/>
+  </g>
+  <path d="M70 324h458l-12 26H82z" fill="#006ef5"/>
+  <text x="42" y="378" fill="#071b43" font-family="Arial Black, Arial, sans-serif" font-size="22">SHOWCASE</text>
+</svg>

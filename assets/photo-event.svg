@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="180" viewBox="0 0 240 180" role="img" aria-labelledby="eventTitle eventDesc">
+  <title id="eventTitle">大会風景写真差し替え枠</title>
+  <desc id="eventDesc">デュエルスペースでの大会風景をイメージしたプレースホルダー画像</desc>
+  <rect width="240" height="180" fill="#eaf1ff"/>
+  <path d="M0 0h240v52L0 104z" fill="#ffffff"/>
+  <path d="M32 76h176l20 62H52z" fill="#071b43"/>
+  <path d="M52 88h58l6 36H58z" fill="#006ef5"/>
+  <path d="M130 88h58l6 36h-58z" fill="#ffbc1a"/>
+  <circle cx="76" cy="53" r="18" fill="#e8303f"/>
+  <circle cx="164" cy="53" r="18" fill="#006ef5"/>
+  <text x="22" y="160" fill="#071b43" font-family="Arial Black, Arial, sans-serif" font-size="15">EVENT SPACE</text>
+</svg>

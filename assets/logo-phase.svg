@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="236" viewBox="0 0 640 236" role="img" aria-labelledby="logoTitle logoDesc">
+  <title id="logoTitle">フェイズ四日市店 PHASE TCG SHOP</title>
+  <desc id="logoDesc">黄色からオレンジの筆文字風フェイズロゴと英字PHASE、TCG SHOP表記</desc>
+  <defs>
+    <linearGradient id="brush" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#ffe14a"/>
+      <stop offset=".48" stop-color="#ffbc1a"/>
+      <stop offset="1" stop-color="#ff6f1a"/>
+    </linearGradient>
+    <filter id="lift" x="-12%" y="-18%" width="124%" height="136%">
+      <feDropShadow dx="0" dy="7" stdDeviation="5" flood-color="#9b2f00" flood-opacity=".22"/>
+    </filter>
+  </defs>
+  <rect width="640" height="236" fill="none"/>
+  <g filter="url(#lift)">
+    <path d="M38 54 C76 28 145 30 178 58 C144 58 106 66 71 84 C55 92 42 92 30 82 C25 74 29 62 38 54Z" fill="#e8303f" opacity=".88"/>
+    <path d="M492 39 C538 34 585 47 616 75 C582 73 548 77 514 91 C496 98 478 93 472 78 C468 65 477 46 492 39Z" fill="#006ef5" opacity=".88"/>
+    <text x="40" y="136" fill="url(#brush)" stroke="#7b1d00" stroke-width="6" paint-order="stroke fill" font-family="'Yu Mincho','Hiragino Mincho ProN','BIZ UDPMincho',serif" font-size="104" font-weight="900">フェイズ</text>
+    <text x="55" y="190" fill="#071b43" font-family="Arial Black, Impact, sans-serif" font-size="54" font-weight="900">PHASE</text>
+    <path d="M270 162 H560 L536 205 H246 Z" fill="#071b43"/>
+    <text x="294" y="193" fill="#ffffff" font-family="Arial, sans-serif" font-size="28" font-weight="900">TCG SHOP</text>
+  </g>
+  <path d="M426 40 h104 l-18 16 h-104z" fill="#ffbc1a"/>
+  <path d="M420 196 h154 l-16 16 h-154z" fill="#e8303f"/>
+</svg>
